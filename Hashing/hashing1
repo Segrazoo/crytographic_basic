@@ -1,0 +1,3 @@
+Hashing is a one-way mathematical function that turns data into a string of nondescript text that cannot be reversed or decoded.
+
+In the context of cybersecurity, hashing is a way to keep sensitive information and data — including passwords, messages, and documents — secure. Once this content is converted via a hashing algorithm, the resulting value (or hash code) is unreadable to humans and extremely difficult to decrypt, even with the help of advanced technology.
